@@ -1,5 +1,3 @@
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
 # Pitch shifting User manual 
 
 v1.0	初步完善pitch shifting的原理介绍及实现方式
